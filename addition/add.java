@@ -1,5 +1,5 @@
 
-class Add {
+class add {
     void disp() {
         int a, b, c;
         a = 10;
