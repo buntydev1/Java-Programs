@@ -11,7 +11,7 @@ class interest {
     }
 }
 
-class Demo {
+class simpleInterest {
     public static void main(String[] args) {
         interest x = new interest();
         x.disp();
