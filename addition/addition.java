@@ -9,9 +9,9 @@ class add {
     }
 }
 
-class Addition extends Add {
+class addition extends add {
     public static void main(String[] args) {
-        Add x = new Add();
+        add x = new add();
         x.disp();
     }
 }
